@@ -10,13 +10,11 @@ using System.Windows.Forms;
 
 namespace Jovenes_Debutantes
 {
-    public partial class Form1 : Form
+    public partial class Jugador : Form
     {
-        public Form1()
+        public Jugador()
         {
             InitializeComponent();
         }
-
-        
     }
 }
